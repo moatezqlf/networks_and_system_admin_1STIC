@@ -145,3 +145,11 @@ This course is specifically designed for first-year Master's students in the Inf
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Your contributions are welcome!
 
+## Contact Information
+
+For any questions, clarifications, or assistance regarding the course material or labs, feel free to contact me at:
+
+Email: [berrehouma.nabil@univ-guelma.dz](mailto:berrehouma.nabil@univ-guelma.dz)
+
+
+
